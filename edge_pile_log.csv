@@ -1,0 +1,19 @@
+timestamp,operation,parameter,value
+2025-05-23T13:36:00,add raw material,red_soil,74
+2025-05-23T13:36:00,add raw material,Green vegetables fruits and peppers,370
+2025-05-23T13:36:00,add raw material,Sawdust,9
+2025-05-27T13:33:00,add raw material,manure,8 kg
+2025-05-29T11:41:00,ph correction,,Added lime to increase ph
+2025-06-03T14:50:00,add raw material,Dry leaves,21 kg
+2025-06-03T14:50:00,add raw material,Green grass,8
+2025-06-03T14:50:00,add raw material,Dry grass,3
+2025-06-03T14:50:00,add raw material,Wood chips,14
+2025-06-03T14:50:00,add raw material,Red soil,7
+2025-06-03T16:00:00,evalve irrigation,,2 min
+2025-06-10T13:30:00,Compost Turning Operation,,
+2025-06-11T11:45:00,evalve irrigation,,2 min
+2025-06-16T16:10:00,Compost Turning Operation,,
+2025-06-23T13:10:00,Compost Turning Operation,,
+2025-07-08T14:10:00,Compost Turning Operation,,
+2025-07-25T14:10:00,Compost Turning Operation,,
+2025-08-08T14:10:00,Compost Turning Operation,,

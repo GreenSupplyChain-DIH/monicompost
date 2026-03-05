@@ -1,0 +1,14 @@
+date,type of op,values,pile id
+23.05.2025 - 1.36pm,add raw material,"{red_soil: 74, Green vegetables, fruits, and peppers: 370, Sawdust: 9}","edge, cloud"
+27.05.2025 - 1.33pm,add raw material,{manure: 8 kg},"edge, cloud"
+29.05 - 11.41am,ph correction,Added lime to increase ph,"edge, cloud"
+03.06.2025 - 2.50 pm,add raw material,"{Dry leaves: 21 kg, Green grass: 8, Dry grass: 3, Wood chips:14, Red soil:7 }","edge, cloud"
+03.06 - 4.00pm,evalve irrigation, 2min,"edge, cloud"
+10.06 - 1.30pm,Compost Turning Operation,,"edge, cloud"
+11.06 - 11.45am,evalve irrigation, 2min,edge
+16.06 - 4.10 pm,Compost Turning Operation,,"edge, cloud"
+23.06 - 1.10 pm,Compost Turning Operation,,"edge, cloud"
+08.07 - 2.10 pm,Compost Turning Operation,,"edge, cloud"
+25.07 - 2.10 pm,Compost Turning Operation,,"edge, cloud"
+08.08 - 2.10 pm,Compost Turning Operation,,"edge, cloud"
+08.08 - 2.10,NPK analysis ,5-3-8,cloud

@@ -23,3 +23,5 @@ scripts
 # Ignore compiled protobuf files
 *_pb2.py
 dev/
+
+Zenodo-*/

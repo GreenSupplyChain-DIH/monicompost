@@ -1,14 +1,20 @@
-date,type of op,values,pile id
-23.05.2025 - 1.36pm,add raw material,"{red_soil: 74, Green vegetables, fruits, and peppers: 370, Sawdust: 9}","edge, cloud"
-27.05.2025 - 1.33pm,add raw material,{manure: 8 kg},"edge, cloud"
-29.05 - 11.41am,ph correction,Added lime to increase ph,"edge, cloud"
-03.06.2025 - 2.50 pm,add raw material,"{Dry leaves: 21 kg, Green grass: 8, Dry grass: 3, Wood chips:14, Red soil:7 }","edge, cloud"
-03.06 - 4.00pm,evalve irrigation, 2min,"edge, cloud"
-10.06 - 1.30pm,Compost Turning Operation,,"edge, cloud"
-11.06 - 11.45am,evalve irrigation, 2min,edge
-16.06 - 4.10 pm,Compost Turning Operation,,"edge, cloud"
-23.06 - 1.10 pm,Compost Turning Operation,,"edge, cloud"
-08.07 - 2.10 pm,Compost Turning Operation,,"edge, cloud"
-25.07 - 2.10 pm,Compost Turning Operation,,"edge, cloud"
-08.08 - 2.10 pm,Compost Turning Operation,,"edge, cloud"
-08.08 - 2.10,NPK analysis ,5-3-8,cloud
+timestamp,operation,parameter,value,pile_identifier
+2025-05-23T13:36:00,add raw material,red_soil,74,"1,2"
+2025-05-23T13:36:00,add raw material,Green vegetables fruits and peppers,370,"1,2"
+2025-05-23T13:36:00,add raw material,Sawdust,9,"1,2"
+2025-05-27T13:33:00,add raw material,manure,8 kg,"1,2"
+2025-05-29T11:41:00,ph correction,,Added lime to increase ph,"1,2"
+2025-06-03T14:50:00,add raw material,Dry leaves,21 kg,"1,2"
+2025-06-03T14:50:00,add raw material,Green grass,8,"1,2"
+2025-06-03T14:50:00,add raw material,Dry grass,3,"1,2"
+2025-06-03T14:50:00,add raw material,Wood chips,14,"1,2"
+2025-06-03T14:50:00,add raw material,Red soil,7,"1,2"
+2025-06-03T16:00:00,evalve irrigation,,2 min,"1,2"
+2025-06-10T13:30:00,Compost Turning Operation,,,"1,2"
+2025-06-11T11:45:00,evalve irrigation,,2 min,2
+2025-06-16T16:10:00,Compost Turning Operation,,,"1,2"
+2025-06-23T13:10:00,Compost Turning Operation,,,"1,2"
+2025-07-08T14:10:00,Compost Turning Operation,,,"1,2"
+2025-07-25T14:10:00,Compost Turning Operation,,,"1,2"
+2025-08-08T14:10:00,Compost Turning Operation,,,"1,2"
+2025-08-08T14:10:00,NPK analysis,,5-3-8,1

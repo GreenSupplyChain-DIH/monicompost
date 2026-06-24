@@ -119,4 +119,4 @@ Contributions are welcome. Please open an issue or pull request with:
 
 ## License
 
-Add your license details here (e.g., MIT, Apache-2.0).
+Licensed under Apache-2.0
